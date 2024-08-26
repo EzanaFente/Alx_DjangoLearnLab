@@ -1,4 +1,4 @@
-from .models import Book
+"from bookshelf.models import Book"
 
 # Delete the Book instance
 updated_book.delete()
